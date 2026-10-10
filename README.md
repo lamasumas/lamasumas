@@ -7,13 +7,14 @@ the backend, Angular and React on the front, PostgreSQL underneath, Docker every
 
 Currently at **Tap Co. Ltd**, working on a property management system used by hotels and
 ryokans. Before that, **CERN**, where I worked on internal business applications including
-EDH, CERN's document and approval workflow system, and led the migration of scheduled
-applications to Kubernetes CronJobs. Earlier: Merkle / Dentsu, and an internship at
-Munster University / Cork TU building the ECCO One-Stop Shop.
+EDH, CET and other smaller internal projects. Earlier I worked at **Merkle / Dentsu**,
+supporting Java and Spring legacy systems. Alongside those roles, I was a full-stack
+developer at **Munster University / Cork TU**, building the ECCO One-Stop Shop for the
+ECCO European project.
 
-Outside work I self-host. A home server and a Raspberry Pi run the container stack behind
-everything in the projects below: databases, scheduled jobs and nightly backups, managed
-with Portainer.
+Outside work I build personal projects, most of them available as repositories, and I
+self-host. A home server and a Raspberry Pi run the container stack behind everything in
+the projects below: databases, scheduled jobs and nightly backups, managed with Portainer.
 
 ## Stack
 
@@ -30,7 +31,7 @@ with Portainer.
 
 ## Also on GitHub
 
-- [AI Agora](https://github.com/lamasumas/AI-Agora) · [agora.hal-bot.uk](https://agora.hal-bot.uk), self-hosted workspace: knowledge base with backlinks and kanban boards, calendar, and a finance dashboard fed by bank CSV imports. One API serves the UI and an AI agent.
+- [AI Agora](https://github.com/lamasumas/AI-Agora), self-hosted workspace: knowledge base with backlinks and kanban boards, calendar, and a finance dashboard fed by bank CSV imports. One API serves the UI and an AI agent.
 - [HAL Server Assistant](https://github.com/lamasumas/HAL-Server-Assistant), self-hosted on a Raspberry Pi: chat room for a locally hosted LLM with conversation memory management.
 - [supabase-manager](https://github.com/lamasumas/supabase-manager), Spring Boot quickstart for accessing Supabase from Java.
 
@@ -47,4 +48,4 @@ Spanish (native) · English (fluent) · French (intermediate) · Japanese (JLPT 
 
 ## Elsewhere
 
-[Portfolio](https://lamasumas.github.io) · [LinkedIn](https://linkedin.com/in/elamasu) · [SpainDevJobs](https://spaindevjobs.com) · navesllanes@gmail.com
+[Portfolio](https://lamasumas.github.io) · [LinkedIn](https://linkedin.com/in/elamasu)  · [eduardo.lamas.suarez@gmail.com](mailto:eduardo.lamas.suarez@gmail.com)
