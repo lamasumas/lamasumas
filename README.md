@@ -20,16 +20,21 @@ with Portainer.
 `Java` `Spring Boot` `Spring WebFlux` `JPA` `Angular` `TypeScript` `React` `Next.js`
 `PostgreSQL` `SQL` `Python` `Docker` `Kubernetes` `Linux` `Playwright` `Flyway`
 
-## Selected projects
+## Projects in production
 
-| Project | Description | Stack |
-|---|---|---|
-| [AI Agora](https://github.com/lamasumas/AI-Agora) | Self-hosted workspace: knowledge base with backlinks and kanban boards, calendar, and a finance dashboard fed by bank CSV imports. One API serves both the UI and an AI agent. | Python, FastAPI, React, Docker |
-| [JapLearn](https://jp.hal-bot.uk) | Japanese study app: 13,108 kanji, 220,627 vocabulary entries and 465,080 links, with JLPT filters, full-text search and a swipe-based study mode. | Java 25, Spring Boot, Postgres, React 19 |
-| [SpainDevJobs](https://spaindevjobs.com) | Job board for Spanish developers with listings, filtering and direct application links. | Next.js, TypeScript, Supabase |
-| [HAL Server Assistant](https://github.com/lamasumas/HAL-Server-Assistant) | Chat room for a locally hosted LLM, built to run on a Raspberry Pi at home. | Next.js, TypeScript, Ollama |
-| [supabase-manager](https://github.com/lamasumas/supabase-manager) | Spring Boot service that administers Supabase projects from Java. | Java, Spring Boot |
-| [lamasumas.github.io](https://lamasumas.github.io) | Portfolio site. | Astro, Tailwind |
+| Project | Live | What it is | Stack |
+|---|---|---|---|
+| [JapLearn](https://github.com/lamasumas/jp-learn) | [jp.hal-bot.uk](https://jp.hal-bot.uk) | Japanese study app: 13,108 kanji, 220,627 vocabulary entries and 465,080 links, with JLPT filters, full-text search and a swipe-based study mode. | Java 25, Spring Boot, Postgres, React 19 |
+| [SpainDevJobs](https://github.com/lamasumas/salien) | [spaindevjobs.com](https://spaindevjobs.com) | Job board for Spanish developers with listings, filtering and direct application links. | Next.js, TypeScript, Supabase |
+| [Portfolio](https://github.com/lamasumas/lamasumas.github.io) | [lamasumas.github.io](https://lamasumas.github.io) | Personal developer portfolio, deployed on GitHub Pages. | Astro, Tailwind |
+
+## Also on GitHub
+
+- [AI Agora](https://github.com/lamasumas/AI-Agora) · [agora.hal-bot.uk](https://agora.hal-bot.uk), self-hosted workspace: knowledge base with backlinks and kanban boards, calendar, and a finance dashboard fed by bank CSV imports. One API serves the UI and an AI agent.
+- [HAL Server Assistant](https://github.com/lamasumas/HAL-Server-Assistant), self-hosted on a Raspberry Pi: chat room for a locally hosted LLM with conversation memory management.
+- [supabase-manager](https://github.com/lamasumas/supabase-manager), Spring Boot quickstart for accessing Supabase from Java.
+
+More projects in my pinned repositories below.
 
 ## Education
 
